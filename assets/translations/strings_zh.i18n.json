@@ -1,0 +1,22 @@
+{
+    "general": {
+        "reset": "重设",
+        "toggle": {
+            "enabled": "已启用",
+            "disabled": "已禁用"
+        },
+        "state": {
+            "disable": "禁用"
+        },
+        "sort": "排序",
+        "sortBy": "排序方式",
+        "addToClipboard": "添加到剪贴板"
+    },
+    "intro": {
+        "termsAndPolicyCaution(rich)": "继续阅读即表示您同意 ${tap(@:about.termsAndConditions)}",
+        "start": "开始"
+    },
+    "home": {
+        "pageTitle": "首页"
+    }
+}
